@@ -22,7 +22,7 @@ yaml_version: 4
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
   author:       "Felipe R. Serrano Domínguez"      # Your name
-  title:        "BASIC LOGIC TESTER"      # Project title
+  title:        "Probador de lógica básico"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "It allows to validate the operation of basic logic devices; gates and flip-flops individually "      # Short description of what your project does
 
