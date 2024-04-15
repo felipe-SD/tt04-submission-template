@@ -52,7 +52,7 @@ documentation:
     - IN7 (SELECT FLIP FLOP; 1 PARA SR, 0 PARA D)
 # A description of what the outputs do (e.g. status LED, SPI MISO, etc)
   outputs:
-    - OUT 0 (GATE _AND)
+    - OUT 0 (GATE AND)
     - OUT 1 (GATE NAND)
     - OUT 2 (GATE OR)
     - OUT 3 (GATE NOR)
